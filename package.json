@@ -1,0 +1,25 @@
+{
+  "name": "find-recipe",
+  "version": "1.0.0",
+  "description": "Recipe Finder",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarsh-shahi/find-recipe.git"
+  },
+  "author": "Adarsh Shahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adarsh-shahi/find-recipe/issues"
+  },
+  "homepage": "https://github.com/adarsh-shahi/find-recipe#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0",
+    "sass": "^1.26.10"
+  }
+}
